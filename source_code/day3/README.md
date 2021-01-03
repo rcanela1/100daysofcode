@@ -4,7 +4,7 @@
 # Description
 
 # Environment
-OS: Mac OS Big Sur
+OS: Mac OS Big Sur version 11
 
 Python version:
 Python 3.9.1
